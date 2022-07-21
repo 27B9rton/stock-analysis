@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis for Steve
 This analysis and project was built for Steve and his parents. They wanted to analyze the stock market performance of DQ as well as multiple other potential investing opportunities. With VBA I created macros that will go through the data set of stock prices and show Steve each stock's performance through total daily volume and return for both 2017 or 2018.
 
 ## Results
